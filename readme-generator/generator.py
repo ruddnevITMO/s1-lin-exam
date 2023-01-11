@@ -24,6 +24,7 @@ if __name__ == '__main__':
         sys.exit()
 
     altFileExtension = fileExtension
+    convertToChapters = True
     numberingInContents = True
     obfuscateContents = True
     writeToReadme = True
@@ -81,7 +82,10 @@ if __name__ == '__main__':
 
     # Заголовок
     printWrite("# " + header)
-
+    
+    if convertToChapters:
+        currChapter = 0
+    
     # Формируем содержание
     howManyCards = len(cards) - 1
     for n in range(1, howManyCards + 1):
@@ -91,7 +95,14 @@ if __name__ == '__main__':
         if obfuscateContents:
             for placing in replacements:
                 name = name.replace(placing[0], placing[1]).replace(placing[0].upper(), placing[1].upper())
-
+        
+        if convertToChapters:
+            thisChapter = name[:5].count("I")
+            if thisChapter != currChapter:
+                currChapter = thisChapter
+                printWrite("Раздел", currChapter)
+            name = name.replace("(III) ", "").replace("(II) ", "").replace("(I) ", "").replace(":", "")
+        
         outputLine = "[" + name + "](" + linkTemplate + quote(quoteConvert(original) + "-" + str(n) + "-наверх") + ")"
         
         if numberingInContents:
