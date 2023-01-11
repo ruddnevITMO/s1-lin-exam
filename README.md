@@ -1,86 +1,253 @@
-## Шаблон сайта для удобной подготовки к любым предметам по билетам
-> :sparkles: При добавлении билетов сайт автоматически обновляется
-
-> :warning: Этот файл будет заменен при первом запуске генератора. Этот текст можно найти [здесь](https://github.com/ruddnevITMO/cardsite/wiki)
-
-### Как настроить сайт:
-
-<details open> 
-<summary>Простой автоматический способ</summary>
-
+# Материалы для подготовки к экзамену по линейной алгебре
+1. [(I) Koмплeкcныe чиcлa. Ocнoвныe oпpeдeлeния, дeйcтвия нaд кoмплeкcными чиcлaми](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D1%8B%D0%B5-%D1%87%D0%B8%D1%81%D0%BB%D0%B0-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F-%D0%BD%D0%B0%D0%B4-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D1%8B%D0%BC%D0%B8-%D1%87%D0%B8%D1%81%D0%BB%D0%B0%D0%BC%D0%B8-1-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+2. [(I) Пoлe кoмплeкcных чиceл](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D0%BF%D0%BE%D0%BB%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D1%8B%D1%85-%D1%87%D0%B8%D1%81%D0%B5%D0%BB-2-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+3. [(I) Фopмы кoмплeкcных чиceл](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D1%84%D0%BE%D1%80%D0%BC%D1%8B-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D1%8B%D1%85-%D1%87%D0%B8%D1%81%D0%B5%D0%BB-3-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+4. [(I) Koльцo. Oпpeдeлeния, виды. Koльцo пoлинoмoв. Oпepaции, cвoйcтвa](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE-%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2%D0%B8%D0%B4%D1%8B-%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE-%D0%BF%D0%BE%D0%BB%D0%B8%D0%BD%D0%BE%D0%BC%D0%BE%D0%B2-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8-%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0-4-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+5. [(I) Дeлимocть пoлинoмoв. НOД](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D0%B4%D0%B5%D0%BB%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C-%D0%BF%D0%BE%D0%BB%D0%B8%D0%BD%D0%BE%D0%BC%D0%BE%D0%B2-%D0%BD%D0%BE%D0%B4-5-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+6. [(I) Kopни пoлинoмoв. Kopни пoлинoмa c дeйcтвитeльными кoэффициeнтaми](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D0%BA%D0%BE%D1%80%D0%BD%D0%B8-%D0%BF%D0%BE%D0%BB%D0%B8%D0%BD%D0%BE%D0%BC%D0%BE%D0%B2-%D0%BA%D0%BE%D1%80%D0%BD%D0%B8-%D0%BF%D0%BE%D0%BB%D0%B8%D0%BD%D0%BE%D0%BC%D0%B0-%D1%81-%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC%D0%B8-%D0%BA%D0%BE%D1%8D%D1%84%D1%84%D0%B8%D1%86%D0%B8%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8-6-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+7. [(I) Maтpицы. Ocнoвныe пoнятия, виды](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%86%D1%8B-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D1%8F-%D0%B2%D0%B8%D0%B4%D1%8B-7-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+8. [(I) Линeйныe oпepaции: cлoжeниe мaтpиц и yмнoжeниe нa чиcлo. Cвoйcтвa](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D1%8B%D0%B5-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8%3A-%D1%81%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%86-%D0%B8-%D1%83%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-%D1%87%D0%B8%D1%81%D0%BB%D0%BE-%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0-8-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+9. [(I) Tpaнcпoниpoвaниe и yмнoжeниe мaтpиц. Oпpeдeлeния, cвoйcтвa](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%83%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%86-%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0-9-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+10. [(I) Oпpeдeлитeль 2-гo и 3-гo пopядкa](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C-2-%D0%B3%D0%BE-%D0%B8-3-%D0%B3%D0%BE-%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B0-10-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+11. [(I) Ocнoвы тeopии пepecтaнoвoк](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D0%B8-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE%D0%BA-11-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+12. [(I) Oпpeдeлитeль n-гo пopядкa. Cвoйcтвa](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C-n-%D0%B3%D0%BE-%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B0-%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0-12-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+13. [(I) Aлгeбpaичecкиe дoпoлнeния, минopы](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BC%D0%B8%D0%BD%D0%BE%D1%80%D1%8B-13-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+14. [(I) Oбpaтнaя мaтpицa. Kpитepий oбpaтимocти](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0-%D0%BA%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B9-%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-14-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+15. [(I) Cиcтeмы линeйных aлгeбpaичecких ypaвнeний. Teopeмa Kpaмepa](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D1%8B%D1%85-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85-%D1%83%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9-%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0-%D0%BA%D1%80%D0%B0%D0%BC%D0%B5%D1%80%D0%B0-15-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+16. [(I) Элeмeнтapныe пpeoбpaзoвaния. Эквивaлeнтныe мaтpицы](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%8D%D0%BA%D0%B2%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%86%D1%8B-16-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+17. [(I) Линeйнaя зaвиcимocть cтpoк. Bыpoждeннocть](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F-%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C-%D1%81%D1%82%D1%80%D0%BE%D0%BA-%D0%B2%D1%8B%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C-17-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+18. [(I) Пpивeдeниe мaтpицы к cтyпeнчaтoмy видy. Meтoд Гaycca](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%86%D1%8B-%D0%BA-%D1%81%D1%82%D1%83%D0%BF%D0%B5%D0%BD%D1%87%D0%B0%D1%82%D0%BE%D0%BC%D1%83-%D0%B2%D0%B8%D0%B4%D1%83-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4-%D0%B3%D0%B0%D1%83%D1%81%D1%81%D0%B0-18-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+19. [(I) Пpимeнeниe элeмeнтapных пpeoбpaзoвaний в зaдaчaх](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9-%D0%B2-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%D1%85-19-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+20. [(I) Beктopы. Ocнoвныe пoнятия. Kлaccы эквивaлeнтнocти нaпpaвлeнных oтpeзкoв](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D1%8F-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B-%D1%8D%D0%BA%D0%B2%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%BE%D1%82%D1%80%D0%B5%D0%B7%D0%BA%D0%BE%D0%B2-20-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+21. [(I) Дeйcтвия c вeктopaми. Линeйнaя нeзaвиcимocть вeктopoв](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F-%D1%81-%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B0%D0%BC%D0%B8-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C-%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2-21-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+22. [(I) Paзлoжeниe вeктopa пo бaзиcy. Пpeoбpaзoвaниe бaзиca](https://ruddnevITMO.github.io/s1-lin-exam/#i-%D1%80%D0%B0%D0%B7%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B0-%D0%BF%D0%BE-%D0%B1%D0%B0%D0%B7%D0%B8%D1%81%D1%83-%D0%BF%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B1%D0%B0%D0%B7%D0%B8%D1%81%D0%B0-22-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+23. [(II) Cиcтeмы кoopдинaт нa плocкocти и в пpocтpaнcтвe. Meтoд кoopдинaт. Пpoeкция вeктopa нa ocь](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-%D0%BA%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82-%D0%BD%D0%B0-%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D0%B8-%D0%B8-%D0%B2-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4-%D0%BA%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B0-%D0%BD%D0%B0-%D0%BE%D1%81%D1%8C-23-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+24. [(II) Cкaляpнoe пpoизвeдeниe вeктopoв. Beктopнoe пpoизвeдeниe вeктopoв](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D1%81%D0%BA%D0%B0%D0%BB%D1%8F%D1%80%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2-%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2-24-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+25. [(II) Cмeшaннoe пpoизвeдeниe. Двoйнoe вeктopнoe пpoизвeдeниe](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D1%81%D0%BC%D0%B5%D1%88%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B2%D0%BE%D0%B9%D0%BD%D0%BE%D0%B5-%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-25-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+26. [(II) Ocнoвныe oбъeкты aнaлитичecкoй гeoмeтpии. Зaдaчи aнaлитичecкoй гeoмeтpии](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9-%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%B8-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9-%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%B8-26-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+27. [(II) Пpямaя нa плocкocти. Beктopныe ypaвнeния](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D0%BF%D1%80%D1%8F%D0%BC%D0%B0%D1%8F-%D0%BD%D0%B0-%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D0%B8-%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5-%D1%83%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-27-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+28. [(II) Пpямaя нa плocкocти. Ypaвнeния в кoopдинaтaх](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D0%BF%D1%80%D1%8F%D0%BC%D0%B0%D1%8F-%D0%BD%D0%B0-%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D0%B8-%D1%83%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-%D0%BA%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82%D0%B0%D1%85-28-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+29. [(II) Bзaимнoe pacпoлoжeниe пpямых нa плocкocти](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D1%8F%D0%BC%D1%8B%D1%85-%D0%BD%D0%B0-%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D0%B8-29-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+30. [(II) Плocкocть в пpocтpaнcтвe. Beктopныe ypaвнeния](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D1%8C-%D0%B2-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B5-%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5-%D1%83%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-30-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+31. [(II) Плocкocть в пpocтpaнcтвe. Ypaвнeния в кoopдинaтaх](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D1%8C-%D0%B2-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B5-%D1%83%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-%D0%BA%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82%D0%B0%D1%85-31-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+32. [(II) Bзaимнoe pacпoлoжeниe плocкocтeй в пpocтpaнcтвe](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D0%B5%D0%B9-%D0%B2-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B5-32-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+33. [(II) Пpямaя в пpocтpaнcтвe](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D0%BF%D1%80%D1%8F%D0%BC%D0%B0%D1%8F-%D0%B2-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B5-33-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+34. [(II) Bзaимнoe pacпoлoжeниe пpямых в пpocтpaнcтвe](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D1%8F%D0%BC%D1%8B%D1%85-%D0%B2-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B5-34-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+35. [(II) Bзaимнoe pacпoлoжeниe пpямых и плocкocтeй в пpocтpaнcтвe](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D1%8F%D0%BC%D1%8B%D1%85-%D0%B8-%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D0%B5%D0%B9-%D0%B2-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B5-35-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+36. [(II) Линии нa плocкocти. Aлгeбpaичecкиe линии](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D0%BB%D0%B8%D0%BD%D0%B8%D0%B8-%D0%BD%D0%B0-%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D0%B8-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%BB%D0%B8%D0%BD%D0%B8%D0%B8-36-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+37. [(II) Эллипc. Ypaвнeния эллипca. Kacaтeльнaя к эллипcy. Диpeктpиcы](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D1%8D%D0%BB%D0%BB%D0%B8%D0%BF%D1%81-%D1%83%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D1%8D%D0%BB%D0%BB%D0%B8%D0%BF%D1%81%D0%B0-%D0%BA%D0%B0%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BA-%D1%8D%D0%BB%D0%BB%D0%B8%D0%BF%D1%81%D1%83-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%81%D1%8B-37-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+38. [(II) Гипepбoлa. Ypaвнeния гипepбoлы. Kacaтeльнaя к гипepбoлe. Диpeктpиcы](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D0%B1%D0%BE%D0%BB%D0%B0-%D1%83%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D0%B1%D0%BE%D0%BB%D1%8B-%D0%BA%D0%B0%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BA-%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D0%B1%D0%BE%D0%BB%D0%B5-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%81%D1%8B-38-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+39. [(II) Пapaбoлa. Ypaвнeниe пapaбoлы. Kacaтeльнaя к пapaбoлe. Диpeктpиcы](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D0%BF%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D0%BB%D0%B0-%D1%83%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D0%BB%D1%8B-%D0%BA%D0%B0%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BA-%D0%BF%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%81%D1%8B-39-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+40. [(II) Диpeктopиaльныe cвoйcтвaя кpивых 2-гo пopядкa](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0%D1%8F-%D0%BA%D1%80%D0%B8%D0%B2%D1%8B%D1%85-2-%D0%B3%D0%BE-%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B0-40-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+41. [(II) Oптичecкиe cвoйcтвa кpивых 2-гo пopядкa](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D0%BE%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0-%D0%BA%D1%80%D0%B8%D0%B2%D1%8B%D1%85-2-%D0%B3%D0%BE-%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B0-41-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+42. [(II) Пoляpнoe ypaвнeниe кpивых 2-гo пopядкa](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D0%BE%D0%B5-%D1%83%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D1%80%D0%B8%D0%B2%D1%8B%D1%85-2-%D0%B3%D0%BE-%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B0-42-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+43. [(II) Пpeoбpaзoвaниe плocкocти: пapaллeльный пepeнoc](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D0%BF%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D0%B8%3A-%D0%BF%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BF%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81-43-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+44. [(II) Пpeoбpaзoвaниe плocкocти: пoвopoт](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D0%BF%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D0%B8%3A-%D0%BF%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D1%82-44-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+45. [(II) Пpeoбpaзoвaниe плocкocти: oбщий вид](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D0%BF%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D0%B8%3A-%D0%BE%D0%B1%D1%89%D0%B8%D0%B9-%D0%B2%D0%B8%D0%B4-45-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+46. [(II) Ypaвнeниe кpивых 2-гo пopядкa чepeз экcцeнтpиcитeт](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D1%83%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D1%80%D0%B8%D0%B2%D1%8B%D1%85-2-%D0%B3%D0%BE-%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B0-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-%D1%8D%D0%BA%D1%81%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B8%D1%81%D0%B8%D1%82%D0%B5%D1%82-46-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+47. [(II) Oбщee ypaвнeниe кpивoй 2-гo пopядкa. Пpивeдeниe к кaнoничecкoмy видy](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D0%BE%D0%B1%D1%89%D0%B5%D0%B5-%D1%83%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D0%B9-2-%D0%B3%D0%BE-%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B0-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA-%D0%BA%D0%B0%D0%BD%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%D1%83-%D0%B2%D0%B8%D0%B4%D1%83-47-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+48. [(II) Kлaccификaция кpивых 2-гo пopядкa](https://ruddnevITMO.github.io/s1-lin-exam/#ii-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%BA%D1%80%D0%B8%D0%B2%D1%8B%D1%85-2-%D0%B3%D0%BE-%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B0-48-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+49. [(III) Maтeмaтичecкиe cтpyктypы](https://ruddnevITMO.github.io/s1-lin-exam/#iii-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B-49-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+50. [(III) Aлгeбpaичecкиe cтpyктypы: гpyппoид, пoлyгpyппa, мoнoид. Пpимepы](https://ruddnevITMO.github.io/s1-lin-exam/#iii-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B%3A-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%BE%D0%B8%D0%B4-%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0-%D0%BC%D0%BE%D0%BD%D0%BE%D0%B8%D0%B4-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-50-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+51. [(III) Aлгeбpaичecкиe cтpyктypы: гpyппa. Пpимepы](https://ruddnevITMO.github.io/s1-lin-exam/#iii-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B%3A-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-51-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+52. [(III) Aлгeбpaичecкиe cтpyктypы: кoльцo, пoлe и тeлo. Пpимepы](https://ruddnevITMO.github.io/s1-lin-exam/#iii-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B%3A-%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE-%D0%BF%D0%BE%D0%BB%D0%B5-%D0%B8-%D1%82%D0%B5%D0%BB%D0%BE-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-52-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+53. [(III) Aлгeбpaичecкиe cтpyктypы: мoдyль нaд кoльцoм. Пpимepы](https://ruddnevITMO.github.io/s1-lin-exam/#iii-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B%3A-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C-%D0%BD%D0%B0%D0%B4-%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE%D0%BC-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-53-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+54. [(III) Линeйнoe пpocтpaнcтвo. Cвoйcтвa cтpyктypы. Пpимepы](https://ruddnevITMO.github.io/s1-lin-exam/#iii-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE-%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-54-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+55. [(III) Линeйныe пoдпpocтpaнcтвa. Изoмopфизм линeйных пpocтpaнcтв](https://ruddnevITMO.github.io/s1-lin-exam/#iii-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D1%8B%D0%B5-%D0%BF%D0%BE%D0%B4%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0-%D0%B8%D0%B7%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D0%B8%D0%B7%D0%BC-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2-55-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+56. [(III) Линeйнaя кoмбинaция. Линeйнaя нeзaвиcимocть. Пoлный нaбop](https://ruddnevITMO.github.io/s1-lin-exam/#iii-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D1%8F-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C-%D0%BF%D0%BE%D0%BB%D0%BD%D1%8B%D0%B9-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-56-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+57. [(III) Бaзиc. Бaзиc в кoнeчнoмepнoм пpocтpaнcтвe. Paзмepнocть пpocтpaнcтвa](https://ruddnevITMO.github.io/s1-lin-exam/#iii-%D0%B1%D0%B0%D0%B7%D0%B8%D1%81-%D0%B1%D0%B0%D0%B7%D0%B8%D1%81-%D0%B2-%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%BC-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B5-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0-57-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+58. [(III) Бaзиcы изoмopфных пpocтpaнcтв](https://ruddnevITMO.github.io/s1-lin-exam/#iii-%D0%B1%D0%B0%D0%B7%D0%B8%D1%81%D1%8B-%D0%B8%D0%B7%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2-58-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+59. [(III) Бaзиc в линeйных пoдпpocтpaнcтвaх. Линeйнaя oбoлoчкa. Линeйнoe мнoгooбpaзиe](https://ruddnevITMO.github.io/s1-lin-exam/#iii-%D0%B1%D0%B0%D0%B7%D0%B8%D1%81-%D0%B2-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D1%8B%D1%85-%D0%BF%D0%BE%D0%B4%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0%D1%85-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F-%D0%BE%D0%B1%D0%BE%D0%BB%D0%BE%D1%87%D0%BA%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B5-%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%B5-59-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+60. [(III) Cyммa и пepeceчeниe пoдпpocтpaнcтв](https://ruddnevITMO.github.io/s1-lin-exam/#iii-%D1%81%D1%83%D0%BC%D0%BC%D0%B0-%D0%B8-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE%D0%B4%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2-60-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+61. [(III) Cиcтeмa Kpaмepa. Teopeмa Kpoнeкepa-Kaпeлли. Aльтepнaтивa Фpeдгoльмa](https://ruddnevITMO.github.io/s1-lin-exam/#iii-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%BA%D1%80%D0%B0%D0%BC%D0%B5%D1%80%D0%B0-%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0-%D0%BA%D1%80%D0%BE%D0%BD%D0%B5%D0%BA%D0%B5%D1%80%D0%B0-%D0%BA%D0%B0%D0%BF%D0%B5%D0%BB%D0%BB%D0%B8-%D0%B0%D0%BB%D1%8C%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D0%B8%D0%B2%D0%B0-%D1%84%D1%80%D0%B5%D0%B4%D0%B3%D0%BE%D0%BB%D1%8C%D0%BC%D0%B0-61-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+62. [(III) Фyндaмeнтaльнaя cиcтeмa peшeний](https://ruddnevITMO.github.io/s1-lin-exam/#iii-%D1%84%D1%83%D0%BD%D0%B4%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B9-62-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+63. [(III) Нeoднopoднaя cиcтeмa линeйных aлгeбpaичecких ypaвнeний](https://ruddnevITMO.github.io/s1-lin-exam/#iii-%D0%BD%D0%B5%D0%BE%D0%B4%D0%BD%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D1%8B%D1%85-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85-%D1%83%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9-63-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+## (I) Комплексные числа. Основные определения, действия над комплексными числами [1] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Комплексные числа. Основные определения, действия над комплексными числами](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/1.jpg)
 ---
-1. Сделать свой репозиторий, пользуясь этим репозиторием как шаблоном
-
-2. Через браузер добавить названия билетов в файл `cardsList.txt` построчно по порядку (можно с нумерацией вида "1. ", "2. ")
-
-5. Добавить билеты (на один билет одна картинка) в папку `cards` называя файлы номером билета
-
-> :warning: Все картинки в одном расширении, на ваш выбор *.png*, *.jpg*, *.jpeg*
-
-6. Добавить альтернативные версии билетов также называя номером билета в папку `altCards` **(не обязательно)** 
-
-3. Зайти во вкладку Actions
-<img width="350" alt="image" src="https://user-images.githubusercontent.com/37450057/211227429-223ff013-d062-4b48-946a-96a4c6e7ab78.png">
-
-4. В меню слева выбрать "Generate README.md to serve"
-<img width="350" alt="image" src="https://user-images.githubusercontent.com/37450057/211227400-e75c2412-15ed-44b5-9257-d3c1585b294d.png">
-
-5. Нажать кнопку "Run workflow"
-6. В появившемся меню ввести заголовок страницы и расширение картинок
-<img width="350" alt="image" src="https://user-images.githubusercontent.com/37450057/211227465-42cd40cc-8bdf-4986-a65f-ff9dc3211eb1.png">
-
-7. Снова нажать "Run workflow"
-
-> :warning: В дальнейшем так запускать стоит только тогда, когда собираетесь изменить заголовок или расширение файлов. Если изменять или добавлять файлы, то скрипт выполнится автоматически.
-
-8. Перейти в настройки репозитория > Pages > Build and deployment > Branch, выбрать ***main*** вместо ***None*** и нажать ***Save*** 
-
-9. Подождать около минуты, перезагрузить страницу, и после этого на странице появится ссылка на сайт.
-
-> :warning: Пункты 8 и 9 нужно делать только в первый раз
-
-10. Готово!
-
+## (I) Поле комплексных чисел [2] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Поле комплексных чисел](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/2.jpg)
 ---
-</details>
-
-<details> 
-
-<summary>Сложный ручной способ</summary>
-
+## (I) Формы комплексных чисел [3] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Формы комплексных чисел](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/3.jpg)
 ---
-
-1. Сделать свой репозиторий, пользуясь этим репозиторием как шаблоном
-2. Клонировать свой репозиторий
-3. Добавить названия билетов в файл `cardsList.txt` построчно по порядку (можно с нумерацией вида "1. ", "2. ")
-4. Внутри `generator.py` изменить несколько переменных:
-
-	- в `githubName` указать ваш username
-	- в `repoName` указать название вашего репозитория
-	- в `header` указать заголовок сайта
-	- в `fileExtension` указать расширение картинок (*.png*, *.jpg*, *.jpeg*)
-5. Добавить билеты (на один билет одна картинка в расширении, выбранном в пункте 4) в папку `cards` называя файлы номером билета
-6. Добавить альтернативные версии билетов (формат и название как в пункте 5) в папку `altCards` **(не обязательно)** 
-7. Запустить генератор сайта командой
-
-```sh 
-python3 generator.py
-```
-
-8. Выгрузить всё в удаленный репозиторий командой
-
-```sh
-git commit -am "Initial commit"
-git push
-```
-
-9. Перейти в настройки репозитория > Pages > Build and deployment > Branch, выбрать ***main*** вместо ***None*** и нажать ***Save***
-
-10. Подождать около минуты, перезагрузить страницу, и после этого на странице появится ссылка на сайт.
-
-11. Готово!
-
+## (I) Кольцо. Определения, виды. Кольцо полиномов. Операции, свойства [4] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Кольцо. Определения, виды. Кольцо полиномов. Операции, свойства](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/4.jpg)
 ---
-
-</details>
-
+## (I) Делимость полиномов. НОД [5] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Делимость полиномов. НОД](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/5.jpg)
+---
+## (I) Корни полиномов. Корни полинома с действительными коэффициентами [6] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Корни полиномов. Корни полинома с действительными коэффициентами](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/6.jpg)
+---
+## (I) Матрицы. Основные понятия, виды [7] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Матрицы. Основные понятия, виды](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/7.jpg)
+---
+## (I) Линейные операции: сложение матриц и умножение на число. Свойства [8] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Линейные операции: сложение матриц и умножение на число. Свойства](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/8.jpg)
+---
+## (I) Транспонирование и умножение матриц. Определения, свойства [9] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Транспонирование и умножение матриц. Определения, свойства](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/9.jpg)
+---
+## (I) Определитель 2-го и 3-го порядка [10] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Определитель 2-го и 3-го порядка](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/10.jpg)
+---
+## (I) Основы теории перестановок [11] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Основы теории перестановок](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/11.jpg)
+---
+## (I) Определитель n-го порядка. Свойства [12] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Определитель n-го порядка. Свойства](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/12.jpg)
+---
+## (I) Алгебраические дополнения, миноры [13] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Алгебраические дополнения, миноры](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/13.jpg)
+---
+## (I) Обратная матрица. Критерий обратимости [14] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Обратная матрица. Критерий обратимости](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/14.jpg)
+---
+## (I) Системы линейных алгебраических уравнений. Теорема Крамера [15] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Системы линейных алгебраических уравнений. Теорема Крамера](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/15.jpg)
+---
+## (I) Элементарные преобразования. Эквивалентные матрицы [16] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Элементарные преобразования. Эквивалентные матрицы](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/16.jpg)
+---
+## (I) Линейная зависимость строк. Вырожденность [17] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Линейная зависимость строк. Вырожденность](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/17.jpg)
+---
+## (I) Приведение матрицы к ступенчатому виду. Метод Гаусса [18] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Приведение матрицы к ступенчатому виду. Метод Гаусса](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/18.jpg)
+---
+## (I) Применение элементарных преобразований в задачах [19] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Применение элементарных преобразований в задачах](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/19.jpg)
+---
+## (I) Векторы. Основные понятия. Классы эквивалентности направленных отрезков [20] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Векторы. Основные понятия. Классы эквивалентности направленных отрезков](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/20.jpg)
+---
+## (I) Действия с векторами. Линейная независимость векторов [21] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Действия с векторами. Линейная независимость векторов](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/21.jpg)
+---
+## (I) Разложение вектора по базису. Преобразование базиса [22] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(I) Разложение вектора по базису. Преобразование базиса](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/22.jpg)
+---
+## (II) Системы координат на плоскости и в пространстве. Метод координат. Проекция вектора на ось [23] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Системы координат на плоскости и в пространстве. Метод координат. Проекция вектора на ось](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/23.jpg)
+---
+## (II) Скалярное произведение векторов. Векторное произведение векторов [24] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Скалярное произведение векторов. Векторное произведение векторов](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/24.jpg)
+---
+## (II) Смешанное произведение. Двойное векторное произведение [25] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Смешанное произведение. Двойное векторное произведение](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/25.jpg)
+---
+## (II) Основные объекты аналитической геометрии. Задачи аналитической геометрии [26] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Основные объекты аналитической геометрии. Задачи аналитической геометрии](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/26.jpg)
+---
+## (II) Прямая на плоскости. Векторные уравнения [27] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Прямая на плоскости. Векторные уравнения](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/27.jpg)
+---
+## (II) Прямая на плоскости. Уравнения в координатах [28] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Прямая на плоскости. Уравнения в координатах](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/28.jpg)
+---
+## (II) Взаимное расположение прямых на плоскости [29] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Взаимное расположение прямых на плоскости](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/29.jpg)
+---
+## (II) Плоскость в пространстве. Векторные уравнения [30] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Плоскость в пространстве. Векторные уравнения](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/30.jpg)
+---
+## (II) Плоскость в пространстве. Уравнения в координатах [31] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Плоскость в пространстве. Уравнения в координатах](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/31.jpg)
+---
+## (II) Взаимное расположение плоскостей в пространстве [32] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Взаимное расположение плоскостей в пространстве](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/32.jpg)
+---
+## (II) Прямая в пространстве [33] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Прямая в пространстве](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/33.jpg)
+---
+## (II) Взаимное расположение прямых в пространстве [34] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Взаимное расположение прямых в пространстве](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/34.jpg)
+---
+## (II) Взаимное расположение прямых и плоскостей в пространстве [35] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Взаимное расположение прямых и плоскостей в пространстве](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/35.jpg)
+---
+## (II) Линии на плоскости. Алгебраические линии [36] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Линии на плоскости. Алгебраические линии](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/36.jpg)
+---
+## (II) Эллипс. Уравнения эллипса. Касательная к эллипсу. Директрисы [37] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Эллипс. Уравнения эллипса. Касательная к эллипсу. Директрисы](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/37.jpg)
+---
+## (II) Гипербола. Уравнения гиперболы. Касательная к гиперболе. Директрисы [38] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Гипербола. Уравнения гиперболы. Касательная к гиперболе. Директрисы](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/38.jpg)
+---
+## (II) Парабола. Уравнение параболы. Касательная к параболе. Директрисы [39] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Парабола. Уравнение параболы. Касательная к параболе. Директрисы](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/39.jpg)
+---
+## (II) Директориальные свойствая кривых 2-го порядка [40] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Директориальные свойствая кривых 2-го порядка](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/40.jpg)
+---
+## (II) Оптические свойства кривых 2-го порядка [41] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Оптические свойства кривых 2-го порядка](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/41.jpg)
+---
+## (II) Полярное уравнение кривых 2-го порядка [42] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Полярное уравнение кривых 2-го порядка](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/42.jpg)
+---
+## (II) Преобразование плоскости: параллельный перенос [43] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Преобразование плоскости: параллельный перенос](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/43.jpg)
+---
+## (II) Преобразование плоскости: поворот [44] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Преобразование плоскости: поворот](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/44.jpg)
+---
+## (II) Преобразование плоскости: общий вид [45] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Преобразование плоскости: общий вид](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/45.jpg)
+---
+## (II) Уравнение кривых 2-го порядка через эксцентриситет [46] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Уравнение кривых 2-го порядка через эксцентриситет](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/46.jpg)
+---
+## (II) Общее уравнение кривой 2-го порядка. Приведение к каноническому виду [47] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Общее уравнение кривой 2-го порядка. Приведение к каноническому виду](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/47.jpg)
+---
+## (II) Классификация кривых 2-го порядка [48] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Классификация кривых 2-го порядка](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/48.jpg)
+---
+## (III) Математические структуры [49] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(III) Математические структуры](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/49.jpg)
+---
+## (III) Алгебраические структуры: группоид, полугруппа, моноид. Примеры [50] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(III) Алгебраические структуры: группоид, полугруппа, моноид. Примеры](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/50.jpg)
+---
+## (III) Алгебраические структуры: группа. Примеры [51] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(III) Алгебраические структуры: группа. Примеры](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/51.jpg)
+---
+## (III) Алгебраические структуры: кольцо, поле и тело. Примеры [52] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(III) Алгебраические структуры: кольцо, поле и тело. Примеры](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/52.jpg)
+---
+## (III) Алгебраические структуры: модуль над кольцом. Примеры [53] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(III) Алгебраические структуры: модуль над кольцом. Примеры](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/53.jpg)
+---
+## (III) Линейное пространство. Свойства структуры. Примеры [54] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(III) Линейное пространство. Свойства структуры. Примеры](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/54.jpg)
+---
+## (III) Линейные подпространства. Изоморфизм линейных пространств [55] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(III) Линейные подпространства. Изоморфизм линейных пространств](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/55.jpg)
+---
+## (III) Линейная комбинация. Линейная независимость. Полный набор [56] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(III) Линейная комбинация. Линейная независимость. Полный набор](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/56.jpg)
+---
+## (III) Базис. Базис в конечномерном пространстве. Размерность пространства [57] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(III) Базис. Базис в конечномерном пространстве. Размерность пространства](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/57.jpg)
+---
+## (III) Базисы изоморфных пространств [58] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(III) Базисы изоморфных пространств](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/58.jpg)
+---
+## (III) Базис в линейных подпространствах. Линейная оболочка. Линейное многообразие [59] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(III) Базис в линейных подпространствах. Линейная оболочка. Линейное многообразие](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/59.jpg)
+---
+## (III) Сумма и пересечение подпространств [60] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(III) Сумма и пересечение подпространств](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/60.jpg)
+---
+## (III) Система Крамера. Теорема Кронекера-Капелли. Альтернатива Фредгольма [61] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(III) Система Крамера. Теорема Кронекера-Капелли. Альтернатива Фредгольма](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/61.jpg)
+---
+## (III) Фундаментальная система решений [62] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(III) Фундаментальная система решений](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/62.jpg)
+---
+## (III) Неоднородная система линейных алгебраических уравнений [63] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(III) Неоднородная система линейных алгебраических уравнений](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/63.jpg)
+---
