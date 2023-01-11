@@ -113,7 +113,8 @@ if __name__ == '__main__':
         if numberingInContents:
             if convertToChapters:
                 outputLine = str(n) + currSeparator + " " + outputLine
-            outputLine = str(n) + ". " + outputLine
+            else:
+                outputLine = str(n) + ". " + outputLine
         
         if not numberingInContents and n != howManyCards:  # на последней главе содержания не нужен перенос строки
             outputLine += "\\"
