@@ -24,6 +24,7 @@ if __name__ == '__main__':
         sys.exit()
 
     altFileExtension = fileExtension
+    numberingInContents = True
     obfuscateContents = True
     writeToReadme = True
     printing = False
@@ -92,7 +93,11 @@ if __name__ == '__main__':
                 name = name.replace(placing[0], placing[1]).replace(placing[0].upper(), placing[1].upper())
 
         outputLine = "[" + name + "](" + linkTemplate + quote(quoteConvert(original) + "-" + str(n) + "-наверх") + ")"
-        if n != howManyCards:  # на последней главе содержания не нужен перенос строки
+        
+        if numberingInContents:
+            outputLine = str(n) + ". " + outputLine
+        
+        if not numberingInContents and n != howManyCards:  # на последней главе содержания не нужен перенос строки
             outputLine += "\\"
 
         printWrite(outputLine)
@@ -105,4 +110,3 @@ if __name__ == '__main__':
             printWrite("### Альтернативный билет для ", cards[n], "[" + str(n) + "] [наверх](" + linkToTop + ")")
             printWrite("![" + cards[n] + "](" + altsLink + str(n) + altFileExtension + ")")
         printWrite("---")
-
