@@ -85,6 +85,8 @@ if __name__ == '__main__':
     
     if convertToChapters:
         currChapter = 0
+        if numberingInContents:
+            currSeparator = "."
     
     # Формируем содержание
     howManyCards = len(cards) - 1
@@ -100,12 +102,17 @@ if __name__ == '__main__':
             thisChapter = name[:5].count("I")
             if thisChapter != currChapter:
                 currChapter = thisChapter
+                match currSeparator:
+                    case ".": currSeparator = ")"
+                    case ")": currSeparator = "."
                 printWrite("### Раздел", currChapter)
             name = name.replace("(III) ", "").replace("(II) ", "").replace("(I) ", "").replace(":", "")
         
         outputLine = "[" + name + "](" + linkTemplate + quote(quoteConvert(original) + "-" + str(n) + "-наверх") + ")"
         
         if numberingInContents:
+            if convertToChapters:
+                outputLine = str(n) + currSeparator + " " + outputLine
             outputLine = str(n) + ". " + outputLine
         
         if not numberingInContents and n != howManyCards:  # на последней главе содержания не нужен перенос строки
