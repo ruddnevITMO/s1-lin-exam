@@ -24,7 +24,7 @@ if __name__ == '__main__':
         sys.exit()
 
     altFileExtension = fileExtension
-    convertToChapters = True
+    convertToChapters = False
     numberingInContents = True
     obfuscateContents = True
     writeToReadme = True
