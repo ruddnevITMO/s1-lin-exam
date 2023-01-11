@@ -100,7 +100,7 @@ if __name__ == '__main__':
             thisChapter = name[:5].count("I")
             if thisChapter != currChapter:
                 currChapter = thisChapter
-                printWrite("Раздел", currChapter)
+                printWrite("### Раздел", currChapter)
             name = name.replace("(III) ", "").replace("(II) ", "").replace("(I) ", "").replace(":", "")
         
         outputLine = "[" + name + "](" + linkTemplate + quote(quoteConvert(original) + "-" + str(n) + "-наверх") + ")"
