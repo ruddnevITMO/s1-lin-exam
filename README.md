@@ -181,6 +181,8 @@
 ---
 ## (II) Директориальные свойствая кривых 2-го порядка [40] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
 ![(II) Директориальные свойствая кривых 2-го порядка](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/40.jpg)
+### Альтернативный билет для  (II) Директориальные свойствая кривых 2-го порядка [40] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Директориальные свойствая кривых 2-го порядка](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/altCards/40.jpg)
 ---
 ## (II) Оптические свойства кривых 2-го порядка [41] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
 ![(II) Оптические свойства кривых 2-го порядка](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/41.jpg)
@@ -193,6 +195,8 @@
 ---
 ## (II) Преобразование плоскости: поворот [44] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
 ![(II) Преобразование плоскости: поворот](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/44.jpg)
+### Альтернативный билет для  (II) Преобразование плоскости: поворот [44] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(II) Преобразование плоскости: поворот](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/altCards/44.jpg)
 ---
 ## (II) Преобразование плоскости: общий вид [45] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
 ![(II) Преобразование плоскости: общий вид](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/45.jpg)
@@ -238,9 +242,13 @@
 ---
 ## (III) Базис в линейных подпространствах. Линейная оболочка. Линейное многообразие [59] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
 ![(III) Базис в линейных подпространствах. Линейная оболочка. Линейное многообразие](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/59.jpg)
+### Альтернативный билет для  (III) Базис в линейных подпространствах. Линейная оболочка. Линейное многообразие [59] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(III) Базис в линейных подпространствах. Линейная оболочка. Линейное многообразие](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/altCards/59.jpg)
 ---
 ## (III) Сумма и пересечение подпространств [60] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
 ![(III) Сумма и пересечение подпространств](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/60.jpg)
+### Альтернативный билет для  (III) Сумма и пересечение подпространств [60] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
+![(III) Сумма и пересечение подпространств](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/altCards/60.jpg)
 ---
 ## (III) Система Крамера. Теорема Кронекера-Капелли. Альтернатива Фредгольма [61] [наверх](https://ruddnevITMO.github.io/s1-lin-exam/#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BF%D0%BE-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5)
 ![(III) Система Крамера. Теорема Кронекера-Капелли. Альтернатива Фредгольма](https://raw.githubusercontent.com/ruddnevITMO/s1-lin-exam/main/cards/61.jpg)
